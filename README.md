@@ -8,14 +8,16 @@
 
 ```
 hands-on-opencv/
-├── examples/                 # Sample codes and practical examples
+├── Codes/                 # Sample codes and practical examples
 │   ├── basic_operations.py   # Basic operations: reading, displaying, saving images
 │   ├── edge_detection.py     # Edge detection using algorithms like Canny
 │   ├── face_detection.py     # Face detection using Haar Cascades
 │   └── image_filters.py      # Applying filters like Gaussian Blur
+│   └── ...      
 ├── assets/                   # Sample files such as images and videos
 │   ├── sample_image.jpg
 │   └── sample_video.mp4
+│   └── ...
 ├── docs/                     # Additional documentation
 │   └── getting_started.md    # Getting started guide for OpenCV
 ├── requirements.txt          # Project dependencies
